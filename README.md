@@ -11,10 +11,10 @@ Fish string
 Motor
 
 Deconstruction / System Diagram 
-Data | Render |	Simulation |	User events
-------------|------------|------------|------------
-Rotation speed --	-- Natural wave --	Use their hand to control the wave
-Hand position	-- --	Manmade wave	
+Data | Render |	Simulation |User events
+-- | -- | -- |--
+Rotation speed | | Natural wave | Use their hand to control the wave
+Hand position | | Manmade wave	
 Hand gesture			
 
 
