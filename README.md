@@ -7,6 +7,7 @@ Floating wave
 
 A piece of wave sized ~2ft by ~2ft that is controlled by the audience beneath it. 
 
+https://www.reubenmargolin.com/waves/contours/video/
 
 ### Physical Parts / Components
 
