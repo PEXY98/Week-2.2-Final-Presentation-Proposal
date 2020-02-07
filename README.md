@@ -1,14 +1,14 @@
 # Week-2.2-Final-Presentation-Proposal
-Proposal:
+__Proposal:
 
-Summary (artistic/design vision)
+__Summary (artistic/design vision)
 
 Floating wave
 
 A piece of wave sized ~2ft by ~2ft that is controlled by the audience beneath it. 
 
 
-Physical Parts/ Components
+__Physical Parts / Components
 
 Physical wave made by wood sticks/plastic sheet. 
 
@@ -18,8 +18,8 @@ Fish string
 
 Motor
 
-Deconstruction / System Diagram 
---
+__Deconstruction / System Diagram 
+
 Data | Render |	Simulation | User events
 -- | -- | -- | --
 Rotation speed | | Natural wave | Use their hand to control the wave
@@ -27,15 +27,15 @@ Hand position | | Manmade wave
 Hand gesture			
 
 
-What is going to be hard/uncertain?
+__What is going to be hard/uncertain?
 -	Structure. 
 -	The material used to make the wave. 
 -	The size of the wave. 
 -	The control software
 
-Timeline
+__Timeline
 
-		Plan of the structure
+Plan of the structure
 
 Detailed structure of the installation
 
